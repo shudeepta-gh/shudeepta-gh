@@ -15,7 +15,7 @@
 
 <br/>
 
-<h3 align="center">⚡ ABOUT ME ⚡</h3>
+<h3 align="center"> ABOUT ME </h3>
 
 <p align="center" style="font-family: 'Times New Roman', serif;">
 <em>A developer who believes clean code deserves a neon spotlight.<br/>
@@ -104,6 +104,6 @@ Currently exploring new ideas, shipping small projects, and leveling up one comm
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3D5AFE,50:1B2A57,100:0A1128&height=120&section=footer" width="100%"/>
 
-<sub>✨ Thanks for stopping by — leave a ⭐ if you liked the vibe ✨</sub>
+<sub> Thanks for stopping by </sub>
 
 </div>
