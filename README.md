@@ -46,6 +46,59 @@ Currently exploring new ideas, shipping small projects, and leveling up one comm
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E9E9E9,100:3D5AFE&height=2&width=800" width="100%" />
 
+<h3 align="center">[ PROJECTS ]</h3>
+
+<div align="center">
+
+<!--
+  To link a project, wrap its name like:
+  <b><a href="https://github.com/shudeepta-gh/REPO_NAME">FlatFolks</a></b>
+-->
+
+<img src="https://img.shields.io/badge/SOFTWARE-3D5AFE?style=flat-square" />
+
+<table align="center">
+  <tr>
+    <td valign="top">
+      <b>FlatFolks</b><br/>
+      A roommate matching, housing management and search platform for both students and landlords.
+    </td>
+    <td valign="top">
+      <b>PeerLearn</b><br/>
+      An AI-powered peer-to-peer learning platform with video explanations, notes sharing and personalized gap analysis.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>LitCave</b><br/>
+      A community-driven book discovery platform with a feed, personalized reading shelves, real-time chat and AI-powered recommendations.
+    </td>
+    <td valign="top">
+      <b>University Finder</b><br/>
+      A platform for finding your preferred university anywhere in the world.
+    </td>
+  </tr>
+</table>
+
+<img src="https://img.shields.io/badge/HARDWARE-3D5AFE?style=flat-square" />
+
+<table align="center">
+  <tr>
+    <td valign="top">
+      <b>Voting System</b><br/>
+      A 7-person voting system that counts the votes of 7 people and shows the result on a 7-segment display.
+    </td>
+    <td valign="top">
+      <b>Digital Thermometer</b><br/>
+      A digital thermometer that reads analog temperature data and displays it on a 7-segment display.
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E9E9E9,100:3D5AFE&height=2&width=800" width="100%" />
+
 <h3 align="center">[ GITHUB PULSE ]</h3>
 
 <div align="center">
@@ -70,30 +123,67 @@ Currently exploring new ideas, shipping small projects, and leveling up one comm
 <div align="center">
 
 <!--
-  To add more, copy a line and edit it:
-  https://img.shields.io/badge/ROLE-ORGANIZATION%20%E2%80%93%20DATES-1B2A57?style=flat-square&labelColor=3D5AFE
-  Spaces = %20, "&" = %26, "/" = %2F, a dash inside text = --
+  To add another row, copy a whole <tr>...</tr> block and edit the text.
 -->
 
 <img src="https://img.shields.io/badge/EXPERIENCE-3D5AFE?style=flat-square" />
-<br/>
-<img src="https://img.shields.io/badge/VICE%20PRESIDENT-BRAC%20UNIVERSITY%20COMPUTER%20CLUB%20%E2%80%A2%20FEB%202026%20%E2%80%93%20PRESENT-1B2A57?style=flat-square&labelColor=3D5AFE" />
-<br/>
-<img src="https://img.shields.io/badge/SENIOR%20EXECUTIVE%2C%20FINANCE-BRAC%20UNIVERSITY%20COMPUTER%20CLUB%20%E2%80%A2%20OCT%202025%20%E2%80%93%20FEB%202026-1B2A57?style=flat-square&labelColor=3D5AFE" />
-<br/>
-<img src="https://img.shields.io/badge/SENIOR%20EXECUTIVE%2C%20PRESS%20RELEASE%20%26%20PUBLICATION-BRAC%20UNIVERSITY%20COMPUTER%20CLUB%20%E2%80%A2%20APR%202025%20%E2%80%93%20OCT%202025-1B2A57?style=flat-square&labelColor=3D5AFE" />
-<br/>
-<img src="https://img.shields.io/badge/GENERAL%20MEMBER%2C%20RESEARCH%20%26%20PROJECT%20MANAGEMENT-BRAC%20UNIVERSITY%20ROBOTICS%20CLUB%20%E2%80%A2%20APR%202025%20%E2%80%93%20PRESENT-1B2A57?style=flat-square&labelColor=3D5AFE" />
 
-<br/><br/>
+<table align="center">
+  <tr>
+    <td align="center" valign="top"><sub><b>FEB 2026<br/>– PRESENT</b></sub></td>
+    <td valign="top">
+      <b>Vice President</b> · Brac University Computer Club<br/>
+      Managing internal affairs, external relations and core administrative operations. Organizing competitions, workshops and events, building strategic partnerships and securing major corporate sponsorships.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><sub><b>OCT 2025<br/>– FEB 2026</b></sub></td>
+    <td valign="top">
+      <b>Senior Executive, Finance</b> · Brac University Computer Club<br/>
+      Planned budgets and managed the club's cash for its events and activities.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><sub><b>APR 2025<br/>– OCT 2025</b></sub></td>
+    <td valign="top">
+      <b>Senior Executive, Press Release &amp; Publication</b> · Brac University Computer Club<br/>
+      Drafted and published engaging press releases that boosted event visibility and participation.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><sub><b>APR 2025<br/>– PRESENT</b></sub></td>
+    <td valign="top">
+      <b>General Member, Research &amp; Project Management</b> · Brac University Robotics Club<br/>
+      Supporting the club's research work and project management.
+    </td>
+  </tr>
+</table>
 
 <img src="https://img.shields.io/badge/ACHIEVEMENTS-3D5AFE?style=flat-square" />
-<br/>
-<img src="https://img.shields.io/badge/TOP%205%20FINALIST-ADA%20LOVELACE%20MINDSTORM%201.0-E9E9E9?style=flat-square&labelColor=3D5AFE" />
-<br/>
-<img src="https://img.shields.io/badge/CONTRIBUTOR-MULTIPLE%20PROJECTS-1B2A57?style=flat-square&labelColor=3D5AFE" />
-<br/>
-<img src="https://img.shields.io/badge/CERTIFICATES-ORGANIZER%20%26%20VOLUNTEER%20AT%20SEVERAL%20EVENTS-1B2A57?style=flat-square&labelColor=3D5AFE" />
+
+<table align="center">
+  <tr>
+    <td align="center" valign="top"><b>Top 5 Finalist</b></td>
+    <td valign="top">
+      <b>Ada Lovelace Mindstorm 1.0</b><br/>
+      Ranked among the top 5 finalists of the competition.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><b>Contributor</b></td>
+    <td valign="top">
+      <b>Multiple projects</b><br/>
+      Contributed to projects ranging from web platforms to hardware circuits.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top"><b>Certificates</b></td>
+    <td valign="top">
+      <b>Organizer &amp; volunteer</b><br/>
+      Received several organizer and volunteer certificates for events.
+    </td>
+  </tr>
+</table>
 
 </div>
 
