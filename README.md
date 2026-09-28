@@ -65,20 +65,35 @@ Currently exploring new ideas, shipping small projects, and leveling up one comm
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3D5AFE,100:E9E9E9&height=2&width=800" width="100%" />
 
-<h3 align="center">[ ACHIEVEMENTS ]</h3>
+<h3 align="center">[ EXPERIENCE &amp; ACHIEVEMENTS ]</h3>
 
 <div align="center">
 
 <!--
-  Add achievements below. Copy a line and edit it:
-  https://img.shields.io/badge/LABEL-YOUR%20TEXT-3D5AFE?style=flat-square&labelColor=1B2A57
-  Spaces = %20 and an apostrophe = %27
+  To add more, copy a line and edit it:
+  https://img.shields.io/badge/ROLE-ORGANIZATION%20%E2%80%93%20DATES-1B2A57?style=flat-square&labelColor=3D5AFE
+  Spaces = %20, "&" = %26, "/" = %2F, a dash inside text = --
 -->
 
-<img src="https://img.shields.io/badge/HACKATHON-ADD%20EVENT%20NAME-3D5AFE?style=flat-square&labelColor=1B2A57" />
-<img src="https://img.shields.io/badge/DEAN%27S%20LIST-ADD%20SEMESTER-A6B8FF?style=flat-square&labelColor=1B2A57" />
-<img src="https://img.shields.io/badge/CERTIFICATION-ADD%20NAME-E9E9E9?style=flat-square&labelColor=1B2A57" />
-<img src="https://img.shields.io/badge/PROJECT-ADD%20PROJECT%20NAME-3D5AFE?style=flat-square&labelColor=1B2A57" />
+<img src="https://img.shields.io/badge/EXPERIENCE-3D5AFE?style=flat-square" />
+<br/>
+<img src="https://img.shields.io/badge/VICE%20PRESIDENT-BRAC%20UNIVERSITY%20COMPUTER%20CLUB%20%E2%80%A2%20FEB%202026%20%E2%80%93%20PRESENT-1B2A57?style=flat-square&labelColor=3D5AFE" />
+<br/>
+<img src="https://img.shields.io/badge/SENIOR%20EXECUTIVE%2C%20FINANCE-BRAC%20UNIVERSITY%20COMPUTER%20CLUB%20%E2%80%A2%20OCT%202025%20%E2%80%93%20FEB%202026-1B2A57?style=flat-square&labelColor=3D5AFE" />
+<br/>
+<img src="https://img.shields.io/badge/SENIOR%20EXECUTIVE%2C%20PRESS%20RELEASE%20%26%20PUBLICATION-BRAC%20UNIVERSITY%20COMPUTER%20CLUB%20%E2%80%A2%20APR%202025%20%E2%80%93%20OCT%202025-1B2A57?style=flat-square&labelColor=3D5AFE" />
+<br/>
+<img src="https://img.shields.io/badge/GENERAL%20MEMBER%2C%20RESEARCH%20%26%20PROJECT%20MANAGEMENT-BRAC%20UNIVERSITY%20ROBOTICS%20CLUB%20%E2%80%A2%20APR%202025%20%E2%80%93%20PRESENT-1B2A57?style=flat-square&labelColor=3D5AFE" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/ACHIEVEMENTS-3D5AFE?style=flat-square" />
+<br/>
+<img src="https://img.shields.io/badge/TOP%205%20FINALIST-ADA%20LOVELACE%20MINDSTORM%201.0-E9E9E9?style=flat-square&labelColor=3D5AFE" />
+<br/>
+<img src="https://img.shields.io/badge/CONTRIBUTOR-MULTIPLE%20PROJECTS-1B2A57?style=flat-square&labelColor=3D5AFE" />
+<br/>
+<img src="https://img.shields.io/badge/CERTIFICATES-ORGANIZER%20%26%20VOLUNTEER%20AT%20SEVERAL%20EVENTS-1B2A57?style=flat-square&labelColor=3D5AFE" />
 
 </div>
 
@@ -94,8 +109,8 @@ Currently exploring new ideas, shipping small projects, and leveling up one comm
 -->
 
 <a href="mailto:shudeeptaroy25@gmail.com"><img src="https://img.shields.io/badge/GMAIL-1B2A57?style=flat-square&logo=gmail&logoColor=A6B8FF" /></a>
-<a href="https://www.linkedin.com/in/shudeeptamou"><img src="https://img.shields.io/badge/LINKEDIN-1B2A57?style=flat-square" /></a>
-<a href="https://www.facebook.com/shudeepta"><img src="https://img.shields.io/badge/FACEBOOK-1B2A57?style=flat-square&logo=facebook&logoColor=E9E9E9" /></a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LINKEDIN-1B2A57?style=flat-square" /></a>
+<a href="https://www.facebook.com/YOUR_FACEBOOK_USERNAME"><img src="https://img.shields.io/badge/FACEBOOK-1B2A57?style=flat-square&logo=facebook&logoColor=E9E9E9" /></a>
 <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME"><img src="https://img.shields.io/badge/INSTAGRAM-1B2A57?style=flat-square&logo=instagram&logoColor=A6B8FF" /></a>
 <a href="https://codeforces.com/profile/YOUR_CODEFORCES_HANDLE"><img src="https://img.shields.io/badge/CODEFORCES-1B2A57?style=flat-square&logo=codeforces&logoColor=E9E9E9" /></a>
 <a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/DISCORD-1B2A57?style=flat-square&logo=discord&logoColor=A6B8FF" /></a>
