@@ -59,7 +59,7 @@ Currently exploring new ideas, shipping small projects, and leveling up one comm
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/shudeepta-gh/shudeepta-gh/output/snake.svg" alt="Snake eating my contribution graph" width="90%" />
+<img src="https://raw.githubusercontent.com/shudeepta-gh/shudeepta-gh/output/pacman-navy.svg" alt="Pac-Man eating my contribution graph" width="90%" />
 
 </div>
 
