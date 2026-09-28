@@ -63,7 +63,7 @@ Currently exploring new ideas, shipping small projects, and leveling up one comm
     <td valign="top">
       <b>FlatFolks</b><br/>
       A roommate matching, housing management and search platform for both students and landlords.
-      <br/><a href="https://github.com/shudeepta-gh/YOUR_FLATFOLKS_REPO"><img src="https://img.shields.io/badge/GITHUB-VIEW%20REPOSITORY-1B2A57?style=flat-square&logo=github&logoColor=E9E9E9&labelColor=3D5AFE" /></a>
+      <br/><a href="https://github.com/brintodas/Flatfolks.git"><img src="https://img.shields.io/badge/GITHUB-VIEW%20REPOSITORY-1B2A57?style=flat-square&logo=github&logoColor=E9E9E9&labelColor=3D5AFE" /></a>
     </td>
     <td valign="top">
       <b>PeerLearn</b><br/>
@@ -75,7 +75,7 @@ Currently exploring new ideas, shipping small projects, and leveling up one comm
     <td valign="top">
       <b>LitCave</b><br/>
       A community-driven book discovery platform with a feed, personalized reading shelves, real-time chat and AI-powered recommendations.
-      <br/><a href="https://github.com/shudeepta-gh/YOUR_LITCAVE_REPO"><img src="https://img.shields.io/badge/GITHUB-VIEW%20REPOSITORY-1B2A57?style=flat-square&logo=github&logoColor=E9E9E9&labelColor=3D5AFE" /></a>
+      <br/><a href="https://github.com/shudeepta-gh/LitCave.git"><img src="https://img.shields.io/badge/GITHUB-VIEW%20REPOSITORY-1B2A57?style=flat-square&logo=github&logoColor=E9E9E9&labelColor=3D5AFE" /></a>
     </td>
     <td valign="top">
       <b>University Finder</b><br/>
