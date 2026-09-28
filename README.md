@@ -51,8 +51,9 @@ Currently exploring new ideas, shipping small projects, and leveling up one comm
 <div align="center">
 
 <!--
-  To link a project, wrap its name like:
-  <b><a href="https://github.com/shudeepta-gh/REPO_NAME">FlatFolks</a></b>
+  Each project has a REPOSITORY button. To connect it, replace the whole link
+  https://github.com/shudeepta-gh/YOUR_..._REPO with your repo link.
+  Tip: Ctrl+F and search "YOUR_" to find every spot.
 -->
 
 <img src="https://img.shields.io/badge/SOFTWARE-3D5AFE?style=flat-square" />
@@ -62,20 +63,24 @@ Currently exploring new ideas, shipping small projects, and leveling up one comm
     <td valign="top">
       <b>FlatFolks</b><br/>
       A roommate matching, housing management and search platform for both students and landlords.
+      <br/><a href="https://github.com/shudeepta-gh/YOUR_FLATFOLKS_REPO"><img src="https://img.shields.io/badge/GITHUB-VIEW%20REPOSITORY-1B2A57?style=flat-square&logo=github&logoColor=E9E9E9&labelColor=3D5AFE" /></a>
     </td>
     <td valign="top">
       <b>PeerLearn</b><br/>
       An AI-powered peer-to-peer learning platform with video explanations, notes sharing and personalized gap analysis.
+      <br/><a href="https://github.com/shudeepta-gh/YOUR_PEERLEARN_REPO"><img src="https://img.shields.io/badge/GITHUB-VIEW%20REPOSITORY-1B2A57?style=flat-square&logo=github&logoColor=E9E9E9&labelColor=3D5AFE" /></a>
     </td>
   </tr>
   <tr>
     <td valign="top">
       <b>LitCave</b><br/>
       A community-driven book discovery platform with a feed, personalized reading shelves, real-time chat and AI-powered recommendations.
+      <br/><a href="https://github.com/shudeepta-gh/YOUR_LITCAVE_REPO"><img src="https://img.shields.io/badge/GITHUB-VIEW%20REPOSITORY-1B2A57?style=flat-square&logo=github&logoColor=E9E9E9&labelColor=3D5AFE" /></a>
     </td>
     <td valign="top">
       <b>University Finder</b><br/>
       A platform for finding your preferred university anywhere in the world.
+      <br/><a href="https://github.com/shudeepta-gh/YOUR_UNIVERSITY_FINDER_REPO"><img src="https://img.shields.io/badge/GITHUB-VIEW%20REPOSITORY-1B2A57?style=flat-square&logo=github&logoColor=E9E9E9&labelColor=3D5AFE" /></a>
     </td>
   </tr>
 </table>
@@ -87,10 +92,12 @@ Currently exploring new ideas, shipping small projects, and leveling up one comm
     <td valign="top">
       <b>Voting System</b><br/>
       A 7-person voting system that counts the votes of 7 people and shows the result on a 7-segment display.
+      <br/><a href="https://github.com/shudeepta-gh/YOUR_VOTING_SYSTEM_REPO"><img src="https://img.shields.io/badge/GITHUB-VIEW%20REPOSITORY-1B2A57?style=flat-square&logo=github&logoColor=E9E9E9&labelColor=3D5AFE" /></a>
     </td>
     <td valign="top">
       <b>Digital Thermometer</b><br/>
       A digital thermometer that reads analog temperature data and displays it on a 7-segment display.
+      <br/><a href="https://github.com/shudeepta-gh/YOUR_DIGITAL_THERMOMETER_REPO"><img src="https://img.shields.io/badge/GITHUB-VIEW%20REPOSITORY-1B2A57?style=flat-square&logo=github&logoColor=E9E9E9&labelColor=3D5AFE" /></a>
     </td>
   </tr>
 </table>
