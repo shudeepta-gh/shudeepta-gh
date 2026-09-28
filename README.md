@@ -94,8 +94,8 @@ Currently exploring new ideas, shipping small projects, and leveling up one comm
 -->
 
 <a href="mailto:shudeeptaroy25@gmail.com"><img src="https://img.shields.io/badge/GMAIL-1B2A57?style=flat-square&logo=gmail&logoColor=A6B8FF" /></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LINKEDIN-1B2A57?style=flat-square" /></a>
-<a href="https://www.facebook.com/YOUR_FACEBOOK_USERNAME"><img src="https://img.shields.io/badge/FACEBOOK-1B2A57?style=flat-square&logo=facebook&logoColor=E9E9E9" /></a>
+<a href="https://www.linkedin.com/in/shudeeptamou"><img src="https://img.shields.io/badge/LINKEDIN-1B2A57?style=flat-square" /></a>
+<a href="https://www.facebook.com/shudeepta"><img src="https://img.shields.io/badge/FACEBOOK-1B2A57?style=flat-square&logo=facebook&logoColor=E9E9E9" /></a>
 <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME"><img src="https://img.shields.io/badge/INSTAGRAM-1B2A57?style=flat-square&logo=instagram&logoColor=A6B8FF" /></a>
 <a href="https://codeforces.com/profile/YOUR_CODEFORCES_HANDLE"><img src="https://img.shields.io/badge/CODEFORCES-1B2A57?style=flat-square&logo=codeforces&logoColor=E9E9E9" /></a>
 <a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://img.shields.io/badge/DISCORD-1B2A57?style=flat-square&logo=discord&logoColor=A6B8FF" /></a>
